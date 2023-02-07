@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(179, 255, 0);
+  color: blue;
+}
+
+header {
+  background-color: rgb(17, 255, 0);
+  color: gold;
+}
+
+section {
+  background-color: rgb(43, 174, 226);
+  color: orange;
+}
+
+h2 {
+  background-color: forestgreen;
+  ;
+}
+/* dl{
+    background-color: gold;
+} */
+
+#about{
+    background-color: beige;
+    color: lightcoral;
+}
+#img {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
